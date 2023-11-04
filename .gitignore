@@ -1,3 +1,6 @@
 .vscode
 artifacts
 README.md
+back-end
+coin-flip/blockchain/build
+vite.config.js
